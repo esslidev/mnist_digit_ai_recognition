@@ -13,7 +13,7 @@ The goal of this project is to:
 
 - Programming Language: Python
 - Libraries: NumPy
-- Development Tools: Jupyter Notebook, Git
+- Development Tools: Vs code, Git
 
 ## Usage
 
