@@ -34,7 +34,5 @@ By working on this project, you will gain hands-on experience with:
 
 ## Feedback and Contributions
 
-Feedback and contributions to the project are welcome! If you have any suggestions, ideas, or improvements, please open an issue or submit a pull request.
-
-Happy learning and coding!
+Feedback to the project are welcome! Happy learning and coding.
 
